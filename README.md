@@ -1,13 +1,16 @@
 # Assign3
 ## Spring 2018
 
-The purpose of this exercise is to get comfortable creating scripts using vim on a server, while teaching you the remainder of bash scripting you'll need as a foundation for this course. The scripts themselves are not particularly exciting but they are the building blocks you'll need.  You will be asked to create 11 scripts, which all come from http://dtg.usc.edu/tgrn510/index.php/bash-scripting/.  These are to all be placed in your "bin" directory. The results of running these should be put into a forked version of this github.  Completion means the scripts work in your home directory and you have put the results in your github where you will replace the placeholder text with the results from running the script.
+The purpose of this exercise is to get comfortable creating scripts using vim on a server, while teaching you the remainder of bash scripting you'll need as a foundation for this course. The scripts themselves are not particularly exciting but they are the building blocks you'll need.  You will be asked to create 11 scripts, which all come from http://dtg.usc.edu/tgrn510/index.php/bash-scripting/.  These are to all be placed in your "bin" directory. The results of running these should be put into a forked version of this github. 
 
 The final question is considerably more difficult and requires you to put concepts together you have learned at this point.
+
+ Completion means the scripts work in your home directory and you have put the results in your github where you will replace the placeholder text with the results from running the script. For exampler, you should replace
 
 *REPLACE WITH RESULTS*
 
 with codeblock text using backticks, which show both the program being called in trgn510.pmed.io and the result.  After, it should be:
+
 `
 davidcraig@trgn510:~/bin ls | test.sh
 TEST.SH
