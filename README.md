@@ -33,7 +33,7 @@ Please create processes.sh.  Modify it such that it prints the top 5 CPU consumi
 ### 4
 Please create makeupper.sh.  Modify it to return lower case results, and change the name to makelower.sh
 
-*REPLACE WITH RESULTS for ps -ef | makeupper.sh*
+*REPLACE WITH RESULTS for `ps -ef | makelower.sh`*
 
 ### 5
 Referring to math.sh, create a script called add.sh that takes two inputs and adds them, **add.sh 5 3** would print 8
