@@ -42,7 +42,7 @@ Referring to math.sh, create a script called add.sh that takes two inputs and ad
 ### 6
 Create a program "mb_or_kb.sh", referring to bigornot.sh and useful.sh, create a script called big file that checks to see if the file exists provided as the first argument exists, and if it exists then gets the filesize, storing it as a variable. I have not provided you with a way to get filesize in exercise, and expect you to search web for a way.  The program then checks to see if the size is greater than 1,000,000.  If its less then 1,000,000, it prints the number of kilobytes (divide by 1000) followed by "kB".  If its greater than 1,000,000, then print the number of megabytes followed by "MB".
 
-*REPLACE WITH RESULTS for mb_or_kb.sh ~/.bashrc*
+*REPLACE WITH RESULTS for `mb_or_kb.sh ~/.bashrc` *
 
 ### 7
 Create a program "count_by_to.sh", referring to count.sh.  The file should take two arguments, and should count jumping by the first argument until the second argument is reached, starting at 0.  For example, *count.sh 2 10* would print 0 2 4 6 8 10
@@ -57,4 +57,4 @@ Please create whatgene.sh.  Please edit such that the function print_gene, print
 ### 10
 Please create a bash shell called "genotype.sh" that takes a VCF as argument 1, and prints space delimited chromosome, position, reference, alternative, and genotype for all genotypes in VCF.
 
-*REPLACE WITH RESULTS for genotype.sh ~/assign2/HG001_GRCh37_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-10X-SOLID_CHROM1-X_v.3.3.2_highconf_PGandRTGphasetransfer.vcf | head*
+*REPLACE WITH RESULTS for `genotype.sh ~/assign2/HG001_GRCh37_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-10X-SOLID_CHROM1-X_v.3.3.2_highconf_PGandRTGphasetransfer.vcf | head` *
