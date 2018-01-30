@@ -12,7 +12,7 @@ The final question is considerably more difficult and requires you to put concep
 with codeblock text using backticks, which show both the program being called in trgn510.pmed.io and the result.  After, it should be:
 
 `
-davidcraig@trgn510:~/bin ls | test.sh
+davidcraig@trgn510:~/bin ls \| test.sh
 TEST.SH
 `
 
