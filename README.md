@@ -55,6 +55,6 @@ Please create whatgene.sh.  Please edit such that the function print_gene, print
 *REPLACE WITH RESULTS*
 
 ### 10
-Please create a bash shell called "genotype.sh" that takes a VCF as argument 1, and prints space delimited chromosome, position, reference, alternative, and genotype for all genotypes in VCF.
+Please create a bash shell called "genotype.sh" that takes a VCF as argument 1, and prints space delimited chromosome, position, reference, alternative, and genotype for all variants in the VCF.
 
 *REPLACE WITH RESULTS for `genotype.sh ~/assign2/HG001_GRCh37_GIAB_highconf_CG-IllFB-IllGATKHC-Ion-10X-SOLID_CHROM1-X_v.3.3.2_highconf_PGandRTGphasetransfer.vcf | head` *
