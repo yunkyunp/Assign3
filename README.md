@@ -74,7 +74,6 @@ Create a program "mb_or_kb.sh", referring to bigornot.sh and useful.sh, create a
 Create a program "count_by_to.sh", referring to count.sh.  The file should take two arguments, and should count jumping by the first argument until the second argument is reached, starting at 0.  For example, *count.sh 2 10* would print 0 2 4 6 8 10
 
 #!/bin/bash
-# Basic while loop
 echo "Starting number:"
 read num1
 echo "Last number:"
@@ -91,7 +90,6 @@ echo All done
 Please create whatgene.sh.  Please edit such that the function print_gene, prints upper case of the input.
 
 #!/bin/bash
-# Setting a return status for a function
 print_gene () {
     echo $Gene | tr a-z A-Z
     return 1
